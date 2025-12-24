@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "The Islamia University of Bahawalpur",
+        "duration": "2021 - 2025",
+        "description": "Focused on software engineering, backend development, and data management. Developed several full-stack projects during academic tenure.",
+        "achievements": [
+            "Built multiple Django-based applications",
+            "Worked on AI-integrated projects during final year"
+        ]
+    }
+]

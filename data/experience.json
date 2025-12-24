@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "role": "Backend Developer Intern",
+        "company": "NeurOOceans AI (Remote)",
+        "duration": "Sep 2025 - Dec 2025",
+        "description": "Engineered scalable and high-performance backend modules using Django REST Framework. Focused on secure API design, modular architecture, and maintainable codebase. Integrated Stripe API for subscription management and implemented Google Calendar-based scheduling. Designed custom logging, optimized database queries, and enforced atomic transactions for consistency.",
+        "techStack": [
+            "Django",
+            "Django REST Framework",
+            "Stripe API",
+            "Google Calendar API",
+            "PostgreSQL",
+            "JWT Authentication"
+        ]
+    }
+]
