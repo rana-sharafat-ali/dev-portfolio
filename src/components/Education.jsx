@@ -6,7 +6,7 @@ const Education = () => {
     const [education, setEducation] = useState([]);
 
     useEffect(() => {
-        fetch('/data/education.json')
+        fetch(`${import.meta.env.BASE_URL}data/education.json`)
             .then(res => res.json())
             .then(data => setEducation(data))
             .catch(err => console.error("Error loading education:", err));

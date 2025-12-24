@@ -6,7 +6,7 @@ const Experience = () => {
     const [experience, setExperience] = useState([]);
 
     useEffect(() => {
-        fetch('/data/experience.json')
+        fetch(`${import.meta.env.BASE_URL}data/experience.json`)
             .then(res => res.json())
             .then(data => setExperience(data))
             .catch(err => console.error("Error loading experience:", err));

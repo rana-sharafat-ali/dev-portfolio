@@ -5,7 +5,7 @@ const Skills = () => {
     const [skillsData, setSkillsData] = useState({});
 
     useEffect(() => {
-        fetch('/data/skills.json')
+        fetch(`${import.meta.env.BASE_URL}data/skills.json`)
             .then(response => response.json())
             .then(data => setSkillsData(data))
             .catch(error => console.error('Error fetching skills:', error));
