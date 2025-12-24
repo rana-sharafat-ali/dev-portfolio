@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "title": "Virtual Meeting Scheduler",
+    "description": "Developed a meeting scheduling system integrated with Google Calendar API and OAuth2. Automatically generates Google Meet links, manages attendee invitations, and syncs events.",
+    "techStack": [
+      "Django",
+      "Django REST Framework",
+      "Google Calendar API",
+      "OAuth2",
+      "PostgreSQL"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/virtual-meeting-scheduler",
+    "liveLink": null,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Stripe Payment Integration",
+    "description": "Integrated Stripe API for subscription management and payment processing. Implemented asynchronous webhooks for real-time updates like invoice and subscription changes.",
+    "techStack": [
+      "Django",
+      "Django REST Framework",
+      "Stripe API",
+      "Webhook Events",
+      "PostgreSQL"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/stripe-payment-integration",
+    "liveLink": null,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Authentication & Role-Based Access Control (RBAC)",
+    "description": "Built secure JWT-based authentication with custom token refresh logic and implemented role-based access for different user types such as Employers and Candidates.",
+    "techStack": [
+      "Django REST Framework",
+      "JWT Authentication",
+      "RBAC",
+      "PostgreSQL"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/rbac-system",
+    "liveLink": null,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Custom Logging & Monitoring System",
+    "description": "Designed a custom logging framework with dedicated handlers for API access logs, security logs, and exceptions. Improved system observability and debugging.",
+    "techStack": [
+      "Django",
+      "Python Logging",
+      "REST Framework"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/custom-logging-system",
+    "liveLink": null,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Recipe Box",
+    "description": "Feature-rich web app for managing personal recipes with authentication, search, and category-based organization.",
+    "techStack": [
+      "Django",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "SQLite"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/recipe-box",
+    "liveLink": null,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Employee Management App",
+    "description": "CRUD-based employee management system with roles, departments, and dashboards for efficient record handling.",
+    "techStack": [
+      "Django",
+      "Bootstrap",
+      "SQLite"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/employee-management",
+    "liveLink": null,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Note Saving App",
+    "description": "Secure note-keeping web app allowing users to create, edit, and delete personal notes with authentication and authorization.",
+    "techStack": [
+      "Django",
+      "Bootstrap",
+      "SQLite"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/note-saving-app",
+    "liveLink": null,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Poetry Sharing App",
+    "description": "Community-driven platform for sharing and liking poems, complete with author profiles and content moderation.",
+    "techStack": [
+      "Django",
+      "Bootstrap",
+      "SQLite"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/poetry-sharing-app",
+    "liveLink": null,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Blog Application",
+    "description": "Dynamic blogging platform enabling users to write, publish, and manage posts. Includes commenting, category filtering, and user profiles.",
+    "techStack": [
+      "Django",
+      "Bootstrap",
+      "SQLite"
+    ],
+    "repoLink": "https://github.com/rana-sharafat-ali/blog-application",
+    "liveLink": null,
+    "featured": false
+  }
+]

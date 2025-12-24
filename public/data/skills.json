@@ -1,0 +1,46 @@
+{
+    "Languages": [
+        "Python",
+        "C++",
+        "JavaScript (ES6+)"
+    ],
+    "Frameworks & Libraries": [
+        "Django",
+        "Django REST Framework (DRF)",
+        "React",
+        "Bootstrap"
+    ],
+    "Databases": [
+        "PostgreSQL",
+        "SQLite",
+        "Relational Models (Django ORM)"
+    ],
+    "Backend & APIs": [
+        "RESTful APIs",
+        "JWT Authentication",
+        "Role-Based Access Control",
+        "Stripe API",
+        "Google Calendar API",
+        "OAuth"
+    ],
+    "Tools & DevOps": [
+        "Git",
+        "GitHub",
+        "Postman",
+        "VS Code",
+        "Environment Management (Decouple)",
+        "Custom Logging"
+    ],
+    "Concepts": [
+        "Atomic Transactions",
+        "Asynchronous Event Handling",
+        "Signals",
+        "Middlewares",
+        "API Design",
+        "ORM Optimization"
+    ],
+    "Frontend Basics": [
+        "HTML",
+        "CSS"
+    ]
+}
